@@ -2,7 +2,7 @@ import json
 import jsonpath
 import requests
 import openpyxl
-from DataDriver import Library
+import Library
 
 
 def test_add_multiple_students():
